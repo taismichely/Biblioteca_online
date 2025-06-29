@@ -12,7 +12,6 @@ export function main() {
   // const Livrofic: LivroFicticio = new LivroFicticio (1, 'Maria', 'Eduardo', 2, 'Romance')
   // // const LivroTec: LivroTecnico = new LivroTecnico(2,'Javascript', 'Diogo', 2, 4)
   // bookData.register(Livrofic);
-  // bookData.register(LivroTec);
 
   // bookData.listBooks();
 
