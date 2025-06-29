@@ -40,15 +40,6 @@ export abstract class Livro {
     this._type = type
   }
 
-  // public retirarLivro(indice: number): boolean {
-  //   if(this._number !== indice) {
-  //     console.log("Número do livro não encontrado!")
-  //     return false
-  //   }
-
-  //   console.log('Aqui aplico a logica de tirar livro da lista')
-  // }
-
   public visualizar(): void {
     let type: string = "";
 
